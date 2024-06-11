@@ -1,0 +1,10 @@
+{
+    "name": "yma-validator",
+    "version": "1.0.0",
+    "description": "Form 表单校验器",
+    "main": "./src/index.js",
+    "scripts": {},
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
